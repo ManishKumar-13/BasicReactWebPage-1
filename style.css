@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container {
+    padding: 3rem 5rem;
+    background-color: #f0f0f0;
+    margin: 5rem;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+.paragraph {
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+    text-align: justify;
+}
